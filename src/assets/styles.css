@@ -8,10 +8,6 @@ hr{
   border-color: white;
 }
 
-.top-30{
-  margin-top: 30px;
-}
-
 .jumbotron{
   background-color: #171717;
 }
@@ -44,10 +40,6 @@ hr{
   border-radius: 100%;
 }
 
-.img-50{
-  height: 50px;
-  width: 50px;
-}
 
 /* Animaciones */
 .animated {
